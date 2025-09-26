@@ -36,3 +36,5 @@ With Zuber's entry into the Chicago ride-sharing market, this project provides d
 **Taxi Ride Counts by Company**
 This query retrieves the number of taxi rides for each company on November 15-16, 2017, sorted by the number of rides in descending order.
 
+<img src="https://github.com/user-attachments/assets/669a4631-6058-4817-b559-9912d3b03a6b" width="600" alt="image" />
+
