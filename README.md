@@ -33,10 +33,12 @@ With Zuber's entry into the Chicago ride-sharing market, this project provides d
     - Examine the effect of rainy Saturdays on ride duration from the Loop to O'Hare Airport.
   
 ## Visual Representations
+
 **Taxi Ride Counts by Company**
 This query retrieves the number of taxi rides for each company on November 15-16, 2017, sorted by the number of rides in descending order.
 
-<img src="https://github.com/user-attachments/assets/669a4631-6058-4817-b559-9912d3b03a6b" width="600" alt="image" />
+<img alt="Screenshot 2025-10-21 at 4 16 22 PM" src="https://github.com/user-attachments/assets/a1fc6930-eb8f-4efd-933a-e25087966c61" width="600" alt="image" />
+
 
 **Rides for Popular Companies and Grouping Others**
 This query finds the number of rides for the two most popular companies, Flash Cab and Taxi Affiliation Services, during November 1-7, 2017. All other companies are grouped under "Other."
