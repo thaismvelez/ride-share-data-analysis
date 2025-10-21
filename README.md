@@ -38,3 +38,6 @@ This query retrieves the number of taxi rides for each company on November 15-16
 
 <img src="https://github.com/user-attachments/assets/669a4631-6058-4817-b559-9912d3b03a6b" width="600" alt="image" />
 
+**Rides for Popular Companies and Grouping Others**
+This query finds the number of rides for the two most popular companies, Flash Cab and Taxi Affiliation Services, during November 1-7, 2017. All other companies are grouped under "Other."
+
