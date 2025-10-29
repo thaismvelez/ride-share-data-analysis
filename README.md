@@ -34,24 +34,24 @@ With Zuber's entry into the Chicago ride-sharing market, this project provides d
   
 ## Visual Representations
 
-**Taxi Ride Counts by Company**
+### Taxi Ride Counts by Company 
 This query retrieves the number of taxi rides for each company on November 15-16, 2017, sorted by the number of rides in descending order.
 
 <img alt="Screenshot 2025-10-21 at 4 16 22 PM" src="https://github.com/user-attachments/assets/a1fc6930-eb8f-4efd-933a-e25087966c61" width="600" alt="image" />
 
 
-**Rides for Popular Companies and Grouping Others**
+### Rides for Popular Companies and Grouping Others
 This query finds the number of rides for the two most popular companies, Flash Cab and Taxi Affiliation Services, during November 1-7, 2017. All other companies are grouped under "Other."
 
 <img src="https://github.com/user-attachments/assets/f67d6b96-b848-4c86-9e60-675a88ea8e89" width="600" alt="image" />
 <img alt="Screenshot 2025-10-21 at 3 37 56 PM" src="https://github.com/user-attachments/assets/09978a36-f699-4556-b4a6-7657cc942275" width="600" alt="image" />
 
-**Weather Condition Records by Hour**
+### Weather Condition Records by Hour**
 This query retrieves hourly weather condition data and classifies each record as "Bad" or "Good" based on whether the description contains the words rain or storm.
 
 <img alt="Screenshot 2025-10-21 at 3 40 38 PM" src="https://github.com/user-attachments/assets/d80a6d9f-dcc9-4839-b03e-cff336570c61" width="600" alt="image" />
 
-**Loop to O'Hare Rides on Saturday**
+### Loop to O'Hare Rides on Saturday
 This query selects rides that started in the Loop and ended at O'Hare on a Saturday, along with their weather conditions and durations. Rides without weather data are excluded.
 
 <img alt="Screenshot 2025-10-21 at 3 53 21 PM" src="https://github.com/user-attachments/assets/352062d9-6f13-4d74-92b2-d52c3614e113" width="600" alt="image" />
