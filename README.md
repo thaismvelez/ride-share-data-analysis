@@ -46,7 +46,7 @@ This query finds the number of rides for the two most popular companies, Flash C
 <img src="https://github.com/user-attachments/assets/f67d6b96-b848-4c86-9e60-675a88ea8e89" width="600" alt="image" />
 <img alt="Screenshot 2025-10-21 at 3 37 56 PM" src="https://github.com/user-attachments/assets/09978a36-f699-4556-b4a6-7657cc942275" width="600" alt="image" />
 
-### Weather Condition Records by Hour**
+### Weather Condition Records by Hour
 This query retrieves hourly weather condition data and classifies each record as "Bad" or "Good" based on whether the description contains the words rain or storm.
 
 <img alt="Screenshot 2025-10-21 at 3 40 38 PM" src="https://github.com/user-attachments/assets/d80a6d9f-dcc9-4839-b03e-cff336570c61" width="600" alt="image" />
